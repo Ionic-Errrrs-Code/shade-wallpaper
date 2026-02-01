@@ -77,7 +77,7 @@ Whether you're into anime, cars, nature, or any other category, Shade has someth
 - **Status:** ✅ Completed
 - **Development Duration:** 1 month
 - **Team Size:** 1 developer
-- **Client:** Ionic Errrors Code
+- **Client:** Ionic Errrrs Code
 - **Category:** Mobile Application
 - **Rating:** ⭐⭐⭐⭐⭐ (5/5)
 
@@ -129,7 +129,7 @@ Innovative solutions were implemented to overcome these challenges:
 
 ## 👨‍💻 Developer
 
-**Ionic Errrors Code**
+**Ionic Errrrs Code**
 
 - Website: [ionicerrrrscode.com](https://ionicerrrrscode.com)
 - GitHub: [@Ionic-Errrrs-Code](https://github.com/Ionic-Errrrs-Code)
@@ -138,7 +138,7 @@ Innovative solutions were implemented to overcome these challenges:
 
 ## 📄 License
 
-This project is proprietary software developed by Ionic Errrors Code.
+This project is proprietary software developed by Ionic Errrrs Code.
 
 ---
 
@@ -146,6 +146,6 @@ This project is proprietary software developed by Ionic Errrors Code.
   
   ### ⭐ If you like Shade, don't forget to give it a star on the Play Store! ⭐
   
-  Made with ❤️ by Ionic Errrors Code
+  Made with ❤️ by Ionic Errrrs Code
   
 </div>
